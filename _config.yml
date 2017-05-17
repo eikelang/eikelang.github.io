@@ -16,8 +16,8 @@
 title: Eike's Blog
 email: mail+github@elang.de 
 description: > # this means to ignore newlines until "baseurl:"
-    Just some random musings and opinions, written mostly for my benefit.
-    You're welcome to any insights you may accidentally find here.
+    Just some random technical tidbits and opinions, written mostly for my benefit.
+    You are welcome to any insights you may accidentally find here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eikelang
